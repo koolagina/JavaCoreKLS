@@ -1,7 +1,6 @@
 package HW1;
 //создаем класс члена команды
 public class TeamMate {
-
     private String name;
     private int runningSpeed; //скорость спорсмена
     private int archeryAccuracy; //точность спорсмена
