@@ -1,7 +1,6 @@
 package HW1;
 //создаем класс команды
 public class Team {
-
     private String name;
     private TeamMate[] members; //объявляем массив спортсменов
     //конструктор

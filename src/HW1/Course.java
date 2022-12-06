@@ -1,5 +1,4 @@
 package HW1;
-
 import java.util.ArrayList;
 import java.util.List;
 //создаем класс полосы препятствий
