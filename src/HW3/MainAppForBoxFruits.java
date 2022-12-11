@@ -1,3 +1,4 @@
+package HW3;
 /*
 2. Задача:
 Даны классы Fruit, Apple extends Fruit, Orange extends Fruit;

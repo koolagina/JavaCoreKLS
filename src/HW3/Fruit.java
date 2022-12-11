@@ -1,3 +1,4 @@
+package HW3;
 //создаем класс фрукт
 abstract public class Fruit {
     private final String kind;
