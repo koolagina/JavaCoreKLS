@@ -11,7 +11,6 @@ import java.io.StringReader;
 import java.util.Properties;
 
 public class ExampleMain {
-
     static Properties prop = new Properties();
 
     public static void main(String[] args) throws IOException {
